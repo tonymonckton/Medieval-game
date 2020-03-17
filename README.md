@@ -22,7 +22,7 @@ A dungeon and dragon style game
 
 # Screenshots
 
-![medieval](medieval1.jpg)
-![medieval](medieval2.jpg)
+![medieval](medieval1.png)
+![medieval](medieval2.png)
 ![medieval](medieval3.jpg)
 ![medieval](medieval4.jpg)
