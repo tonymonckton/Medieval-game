@@ -2,18 +2,18 @@
 
 A dungeon and dragon style game
 
-  - Unity 5.6 C#
+  - Unity 2019 C#
 
 # Features!
 
   - Finite State Machine
   - Boss and Player have multiple animations
+  - Boss AI and attack moves.
   - Follow Camera using Ridgid Body physics and Sphere Collider.
 
 # Todo
 
   - Gameplay
-  - Boss AI and attack moves.
   - Menu system
   - Inventory system
 
