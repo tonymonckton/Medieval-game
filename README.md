@@ -7,6 +7,8 @@ A dungeon and dragon style game
 # Features!
 
   - Finite State Machine
+  - Messaging System with data
+  - new sound for Mutant Orge
   - Boss and Player have multiple animations
   - Boss AI and attack moves.
   - Follow Camera using Ridgid Body physics and Sphere Collider.
